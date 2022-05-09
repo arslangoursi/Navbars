@@ -39,7 +39,7 @@ body {
   flex: 1;
 }
 .search1 {
-  margin-left: 25px;
+  margin-left: 15px;
 }
 .heading1 a:hover {
   text-decoration: underline;
@@ -105,4 +105,22 @@ body {
   padding: 10px 20px;
   border-radius: 5px;
   color: white;
+}
+.nav4 {
+  background-color: #2699fb;
+  height: 60px;
+  display: flex;
+  flex-direction: row;
+  padding-left: 20px;
+  padding-right: 20px;
+  color: aliceblue;
+  align-items: center;
+  width: 100%;
+  margin-top: 30px;
+}
+.search2 {
+  margin-left: 15px;
+}
+.search3 {
+  margin-left: 50px;
 }
